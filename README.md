@@ -1,16 +1,28 @@
-## Hi there 👋
+# Antonio Augusto Fernandes
 
-<!--
-**AntonioAugustoF/AntonioAugustof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analytics Engineer focused on building reliable data pipelines and transforming raw data into structured, trustworthy information for analysis and decision-making.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+**Languages & Query**
+Python · SQL
+
+**Storage & Processing**
+PostgreSQL · Pandas · SQLAlchemy
+
+**Visualization**
+Power BI
+
+---
+
+## What I'm building
+
+ETL pipelines in Python that extract data from REST APIs, apply structured transformations, and load clean, versioned datasets into PostgreSQL — designed to be modular, observable, and easy to maintain.
+
+---
+
+## Contact
+
+antoniofernandessaugusto@gmail.com
